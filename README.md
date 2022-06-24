@@ -3,4 +3,4 @@ Capstone: Retrieving, Processing, and Visualizing Data with Python specializatio
 
 Coursera Capstone taught by Dr Severence.. 
 
-Visualization done by according to the instructions.. Uploaded screenshot shows various output. 
+Uploaded screenshots shows various output after following the instructions of the lecturer.   
